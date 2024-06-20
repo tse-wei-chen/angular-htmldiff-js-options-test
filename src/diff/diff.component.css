@@ -1,0 +1,13 @@
+del {
+    background-color: palevioletred !important;
+}
+ins {
+    background-color: aquamarine !important;
+}
+
+.bo{
+    border-width:3px;
+    border-style:dashed;
+    border-color:#FFAC55;
+    padding:5px;
+}
